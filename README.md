@@ -1,2 +1,2 @@
 # promise-loop
-Use loop in promise 
+Use promise as loop in nodejs
